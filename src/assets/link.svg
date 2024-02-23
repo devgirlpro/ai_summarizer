@@ -1,6 +1,3 @@
-
-
-
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    fill="none"
@@ -8,6 +5,8 @@
    stroke="currentColor"
    strokeLinecap="round"
    strokeLinejoin="round"
+
+   
    strokeWidth="1.5"
    viewBox="0 0 24 24"
    width="24"
@@ -37,3 +36,4 @@
      d="M8 12h8"
      id="path4" />
 </svg>
+
